@@ -33,8 +33,8 @@ end
 end
 
 def for_iterator(greeting_count)
-   greeting_count = 1..6
+  greeting_count = 1..6
   for greeting in greeting_count 
-    puts "Welcome to Flatiron School's Web Development Course!"
-end
-end
+  puts "Welcome to Flatiron School's Web Development Course!"
+  end
+	end
