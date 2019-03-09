@@ -10,7 +10,7 @@ def loop_iterator(integer = 7)
 end
 end
 
-def times_iterator(integer =7)
+def times_iterator(integer = 7)
   7.times do
     puts "Welcome to Flatiron School's Web Development Course!"
 end
