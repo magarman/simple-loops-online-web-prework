@@ -10,23 +10,23 @@ def loop_iterator(integer = 7)
 end
 end
 
-def times_iterator(integer = 9)
-  9.times do
+def times_iterator(integer = 7)
+  7.times do
     puts "Welcome to Flatiron School's Web Development Course!"
 end
 end
 
-def while_iterator(integer = 11)
+def while_iterator(integer = 7)
   counter = 0
-  while counter < 11
+  while counter < 7
   counter += 1
   puts "Welcome to Flatiron School's Web Development Course!"
 end
 end
 
-def until_iterator(integer = 8)
+def until_iterator(integer = 7)
   counter = 0
-  until counter == 8
+  until counter == 7
   puts "Welcome to Flatiron School's Web Development Course!"
   counter += 1
 end
