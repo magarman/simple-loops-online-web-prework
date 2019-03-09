@@ -38,4 +38,3 @@ def for_iterator(1..6)
     puts "Welcome to Flatiron School's Web Development Course!"
 end
 end
-  
