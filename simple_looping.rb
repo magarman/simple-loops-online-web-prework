@@ -32,7 +32,7 @@ def until_iterator(integer = 8)
 end
 end
 
-def for_iterator(1..6)
+def for_iterator(greeting_count)
    greeting_count = 1..6
   for greeting in greeting_count 
     puts "Welcome to Flatiron School's Web Development Course!"
